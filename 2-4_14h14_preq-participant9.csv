@@ -1,0 +1,5 @@
+ParticipantID,QuestionType,QuestionNumber,Option0,Option1,Option2,Option3,Option4,Option5,Option6,Option7,Option8,Option9,Option10,Option11,Option12
+participant9,QCM unique,1,Normale,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+participant9,QCM unique,2,Moins d'une fois par semaine,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+participant9,QCM multiple,3,TF1 (JT),NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+participant9,QCM multiple,4,Télévision,Sites d'actualité,Réseaux sociaux,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
