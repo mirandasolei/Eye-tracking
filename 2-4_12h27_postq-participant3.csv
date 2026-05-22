@@ -1,0 +1,3 @@
+ParticipantID,QuestionType,QuestionNumber,Option0,Option1,Option2,Option3,Option4,Option5,Option6,Option7,Option8,Option9,Option10,Option11,Option12
+participant3,Fermee oui/non,1,Oui,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+participant3,QCM unique,2,NaN,NaN,NaN,NaN,NaN,NaN,BFM TV,NaN,NaN,NaN,NaN,NaN,NaN
